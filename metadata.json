@@ -1,0 +1,6 @@
+{
+  "name": "Organiseur",
+  "description": "Un outil complet comprenant un calendrier, un bloc-notes et une calculatrice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
